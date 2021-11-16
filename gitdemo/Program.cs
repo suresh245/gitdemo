@@ -12,6 +12,7 @@ namespace gitdemo
             Console.WriteLine("bye");
 
 
+>>>>>>>>> Temporary merge branch 2
 
         }
     }
